@@ -12,16 +12,22 @@ Features
 # Technologies Used
 
 • Python
+
 • NetworkX (for graph operations)
+
 • Matplotlib (for visualization)
 
 
 # Code Overview
 
 • draw_graph(graph) → Visualizes the graph
+
 • bfs(graph, start) → Runs BFS traversal
+
 • dfs(graph, start) → Runs DFS traversal
+
 • has_cycle(graph) → Checks for cycles
+
 • shortest_path(graph, start, end) → Computes shortest path
 
 # Example Output
