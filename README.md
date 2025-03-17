@@ -33,8 +33,11 @@ Features
 # Example Output
 
 BFS Traversal: {1, 2, 3, 4, 5, 6}
+
 DFS Traversal: {1, 2, 4, 3, 6, 5}
+
 Cycle Detected: [(3, 4, 'forward'), (4, 5, 'forward'), (5, 6, 'forward'), (6, 3, 'forward')]
+
 Shortest Path (1 -> 5): [1, 3, 4, 5]
 
 # Graph Visualization 
