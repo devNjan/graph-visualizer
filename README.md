@@ -4,9 +4,13 @@ A Python-based tool to visualize and analyze graph structures using NetworkX and
 Features
 
 • Graph Visualization: Displays nodes and edges using Matplotlib
+
 • BFS (Breadth-First Search): Explores nodes level by level
+
 • DFS (Depth-First Search): Explores paths deeply before backtracking
+
 • Cycle Detection: Detects cycles in the graph
+
 • Shortest Path Calculation: Computes the shortest path between two nodes
 
 # Technologies Used
