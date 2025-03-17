@@ -14,7 +14,9 @@ Features
 • Python
 • NetworkX (for graph operations)
 • Matplotlib (for visualization)
-Code Overview
+
+
+# Code Overview
 
 • draw_graph(graph) → Visualizes the graph
 • bfs(graph, start) → Runs BFS traversal
